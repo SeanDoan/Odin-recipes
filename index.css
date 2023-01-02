@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    font-size: 36px;
+    background-color: aqua;
+    text-align: center;
+}
+
+ul img {
+    height: auto;
+    width: 500px;
+}
+
+ul li {
+    text-align: center;
+    font-size: 24px;
+    color: violet
+}
